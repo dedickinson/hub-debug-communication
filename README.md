@@ -1,2 +1,4 @@
 # hub-debug-communication
-A debug toolkit container 
+
+A very basic docker container that runs `minicom` to check on 
+incoming serial data
